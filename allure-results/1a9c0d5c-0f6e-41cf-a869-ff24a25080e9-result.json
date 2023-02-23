@@ -1,0 +1,69 @@
+{
+  "uuid": "1a9c0d5c-0f6e-41cf-a869-ff24a25080e9",
+  "historyId": "b603fa45-d757-4ea5-9fca-5b16bebbe5aa",
+  "status": "passed",
+  "statusDetails": {},
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "browser",
+      "value": "chrome-110.0.5481.77"
+    },
+    {
+      "name": "browser",
+      "value": "chrome-110.0.5481.77"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": ".home.bo.tmp.wdio-temp.test.specs.example2.e2e.ts"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "My Login application"
+    },
+    {
+      "name": "feature",
+      "value": "My Login application"
+    },
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": ".home.bo.tmp.wdio-temp.test.specs.example2.e2e.ts"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "My Login application"
+    }
+  ],
+  "links": [],
+  "start": 1677181479865,
+  "name": "should login with valid credentials 1",
+  "stop": 1677181481876
+}
